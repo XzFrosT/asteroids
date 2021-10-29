@@ -1,0 +1,2 @@
+# asteroids
+shooting asteroid game
